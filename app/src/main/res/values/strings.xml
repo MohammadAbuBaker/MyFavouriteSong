@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">My Favourite Song</string>
+    <string name="btnOPakiTor">O Paki Tor</string>
+    <string name="btnKhaironLo">Khairon Lo</string>
+    <string name="btnSunRahaHa">Sun Ra Ha Na </string>
+    <string name="btnBigBatteryAdd">Big Battery Ad</string>
+    <string name="btnAbout">About</string>
+    <string name="txtSongDetails">Song Details</string>
+    <string name="txtSongFullName"></string>
+    <string name="txtSongName">Song Name</string>
+    <string name="btnPlay">Play</string>
+    <string name="btnPause">Pause</string>
+    <string name="btnStop">Stop</string>
+    <string name="txtName">Name:</string>
+    <string name="txtMyName">Mohammad Abu Baker</string>
+    <string name="txtEmail">Email:</string>
+    <string name="txtMyEmail">bakeriiuc@gmail.com</string>
+
+</resources>
